@@ -116,6 +116,9 @@ background-size: cover;
   font-size: 60px;
   font-weight: 300;
   letter-spacing: 3px;
+  
+  -webkit-background-size:cover;
+  -webkit-background-size:cover;
 }
 #headerwrap h2{
   color:white;
