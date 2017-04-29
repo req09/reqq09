@@ -105,10 +105,7 @@ min-height: 500px;
 width: 100%;
 background-size: 100%;
 
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
+
 }
 #headerwrap h1{
   margin-top: 140px;
